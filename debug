@@ -1,0 +1,2 @@
+$eval[$sendMessage[hello from debug]]
+$sendMessage[hello from debug]
